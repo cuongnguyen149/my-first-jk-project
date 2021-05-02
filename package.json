@@ -1,0 +1,19 @@
+{
+  "name": "my-first-jk-project",
+  "version": "1.0.0",
+  "description": "my-first-jk-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuongnguyen149/my-first-jk-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuongnguyen149/my-first-jk-project/issues"
+  },
+  "homepage": "https://github.com/cuongnguyen149/my-first-jk-project#readme"
+}
